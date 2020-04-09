@@ -1,0 +1,34 @@
+{
+  "id": "60c8bd6f-9025-4bd2-8160-969773d88148",
+  "name": "Address Validation Test Package",
+  "publisher": "",
+  "version": "1.0.0.0",
+  "brief": "Automation test package of Address Validation app",
+  "description": "Automation test package of Address Validation app",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "appId": "dd8f0a25-a439-4048-a246-1886af8ad6ad",
+      "name": "Address Validation",
+      "publisher": "CBR technology Corp",
+      "version": "15.0.0.0"
+    }
+  ],
+  "test": "13.0.0.0",
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRanges": [
+    {
+      "from": 70376826,
+      "to": 70376826
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "3.0"
+  
+}
