@@ -4,7 +4,7 @@
   "publisher": "CBR Technology Corp.",
   "brief": "Validates and suggests on the given ship-to address, based on the selection from the suggested addresses updates the Ship-to address in the Sales/Purchase transactions",
   "description": "Validates and suggests on the given ship-to address, based on the selection from the suggested addresses updates the Ship-to address in the Sales/Purchase transactions",
-  "version": "15.0.0.0",
+  "version": "16.0.0.0",
   "privacyStatement": "https://www.cbrtechnology.com/privacy-policy",
   "EULA": "https://www.cbrtechnology.com/copy-of-privacy-policy",
   "help": "https://www.cbrtechnology.com/address-verification-app-help",
